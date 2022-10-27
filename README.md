@@ -10,3 +10,8 @@ it provides solutions for businesses to automate routine office activities. It u
 <h1>Features of UiPath</h1>
 
 ![Untitled](https://user-images.githubusercontent.com/103369152/198310118-131b5817-8b0e-41cd-8600-d1222d4a9e7a.png)
+
+
+<h1>UiPath Architecture</h1>
+
+![Untitled](https://user-images.githubusercontent.com/103369152/198311021-9765e20b-da36-403a-90c8-7923973b777a.png)
