@@ -24,3 +24,7 @@ The Client and Server Side
 Client-side UiPath components are those that the user or developer can communicate with directly. UiPath Studio, Robot, Browser, and UiPath Agent are usually included.
 UiPath's backend operations are considered server-side. It saves the tasks and workflows that a user produces in the databases.
 The UiPath Orchestrator chooses the necessary functions and software robots to carry out the code's tasks.
+
+<h1>Conclution</h1>
+
+All the benifits show that UiPath is a good platform to use for the clients to make their lives and jobs much more esier.
